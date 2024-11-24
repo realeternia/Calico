@@ -1,0 +1,680 @@
+﻿- id: 1
+  name: 延安路
+  bgColor: 220, 69, 32
+  dts:
+      zone: a
+      picpath: yananlu.png
+      pinyin: yán ān lù
+      money: 3
+      leaf: 1
+      wheel: 2
+- id: 2
+  name: 解放路
+  bgColor: 220, 69, 32
+  dts:
+      zone: a
+      picpath: jiefanglu.png
+      pinyin: jiě fàng lù
+      money: 2
+      leaf: 1
+      wheel: 2
+- id: 3
+  name: 平海路
+  bgColor: 220, 69, 32
+  dts:
+      zone: a
+      picpath: pinghailu.png
+      pinyin: píng hǎi lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 4
+  name: 武林路
+  bgColor: 220, 69, 32
+  dts:
+      zone: a
+      picpath: wulinlu.png
+      pinyin: wǔ lín lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 5
+  name: 建国路
+  bgColor: 149, 121, 127
+  dts:
+      zone: b
+      picpath: jianguolu.png
+      pinyin: jiàn guó lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 6
+  name: 体育场路
+  bgColor: 149, 121, 127
+  dts:
+      zone: b
+      picpath: tiyuchanglu.png
+      pinyin: tǐ yù chǎng lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 7
+  name: 新华路
+  bgColor: 149, 121, 127
+  dts:
+      zone: b
+      picpath: xinhualu.png
+      pinyin: xīn huá lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 8
+  name: 凤起路
+  bgColor: 149, 121, 127
+  dts:
+      zone: b
+      picpath: fengqilu.png
+      pinyin: fèng qǐ lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 9
+  name: 中山北路
+  bgColor: 122, 121, 159
+  dts:
+      zone: c
+      picpath: zhongshanbeilu.png
+      pinyin: zhōng shān běi lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 10
+  name: 高银街
+  bgColor: 122, 121, 159
+  dts:
+      zone: c
+      picpath: gaoyinjie.png
+      pinyin: gāo yín jiē
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 11
+  name: 定安路
+  bgColor: 122, 121, 159
+  dts:
+      zone: c
+      picpath: dinganlu.png
+      pinyin: dìng ān lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 12
+  name: 南宋御街
+  bgColor: 122, 121, 159
+  dts:
+      zone: c
+      picpath: nansongyujie.png
+      pinyin: nán sòng yù jiē
+      money: 1
+      leaf: 3
+      wheel: 1
+- id: 13
+  name: 环城北路
+  bgColor: 121, 206, 209
+  dts:
+      zone: d
+      picpath: huanchengbeilu.png
+      pinyin: huán chéng běi lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 14
+  name: 环城西路
+  bgColor: 121, 206, 209
+  dts:
+      zone: d
+      picpath: huanchengxilu.png
+      pinyin: huán chéng xī lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 15
+  name: 环城东路
+  bgColor: 121, 206, 209
+  dts:
+      zone: d
+      picpath: huanchengdonglu.png
+      pinyin: huán chéng dōng lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 16
+  name: 西湖大道
+  bgColor: 121, 206, 209
+  dts:
+      zone: d
+      picpath: xihudadao.png
+      pinyin: xī hú dà dào
+      money: 2
+      leaf: 2
+      wheel: 2
+- id: 17
+  name: 庆春路
+  bgColor: 241, 202, 185
+  dts:
+      zone: e
+      picpath: qingchunlu.png
+      pinyin: qìng chūn lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 18
+  name: 马市街
+  bgColor: 241, 202, 185
+  dts:
+      zone: e
+      picpath: mashijie.png
+      pinyin: mǎ shì jiē
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 19
+  name: 清泰街
+  bgColor: 241, 202, 185
+  dts:
+      zone: e
+      picpath: qingtaijie.png
+      pinyin: qīng tài jiē
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 20
+  name: 景昙路
+  bgColor: 241, 202, 185
+  dts:
+      zone: e
+      picpath: jingtanlu.png
+      pinyin: jǐng tán lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 21
+  name: 钱江路
+  bgColor: 0, 125, 125
+  dts:
+      zone: f
+      picpath: qianjianglu.png
+      pinyin: qián jiāng lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 22
+  name: 望江路
+  bgColor: 0, 125, 125
+  dts:
+      zone: f
+      picpath: wangjianglu.png
+      pinyin: wàng jiāng lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 23
+  name: 甬江路
+  bgColor: 0, 125, 125
+  dts:
+      zone: f
+      picpath: yongjianglu.png
+      pinyin: yǒng jiāng lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 24
+  name: 姚江路
+  bgColor: 0, 125, 125
+  dts:
+      zone: f
+      picpath: yaojianglu.png
+      pinyin: yáo jiāng lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 25
+  name: 秋涛路
+  bgColor: 255, 255, 100
+  dts:
+      zone: g
+      picpath: qiutaolu.png
+      pinyin: qiū tāo lù
+      money: 1
+      leaf: 1
+      wheel: 3
+- id: 26
+  name: 中河路
+  bgColor: 255, 255, 100
+  dts:
+      zone: g
+      picpath: zhonghelu.png
+      pinyin: zhōng hé lù
+      money: 2
+      leaf: 1
+      wheel: 3
+- id: 27
+  name: 德胜路
+  bgColor: 255, 255, 100
+  dts:
+      zone: g
+      picpath: deshenglu.png
+      pinyin: dé shèng lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 28
+  name: 石祥路
+  bgColor: 255, 255, 100
+  dts:
+      zone: g
+      picpath: shixianglu.png
+      pinyin: shí xiáng lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 29
+  name: 南山路
+  bgColor: 125, 255, 125
+  dts:
+      zone: h
+      picpath: nanshanlu.png
+      pinyin: nán shān lù
+      money: 2
+      leaf: 2
+      wheel: 1
+- id: 30
+  name: 北山路
+  bgColor: 125, 255, 125
+  dts:
+      zone: h
+      picpath: beishanlu.png
+      pinyin: běi shān lù
+      money: 1
+      leaf: 3
+      wheel: 2
+- id: 31
+  name: 湖滨路
+  bgColor: 125, 255, 125
+  dts:
+      zone: h
+      picpath: hubinlu.png
+      pinyin: hú bīn lù
+      money: 3
+      leaf: 3
+      wheel: 1
+- id: 32
+  name: 杨公堤
+  bgColor: 125, 255, 125
+  dts:
+      zone: h
+      picpath: yanggongdi.png
+      pinyin: yáng gōng dī
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 33
+  name: 虎跑路
+  bgColor: 255, 160, 100
+  dts:
+      zone: i
+      picpath: hupaolu.png
+      pinyin: hǔ pǎo lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 34
+  name: 之江路
+  bgColor: 255, 160, 100
+  dts:
+      zone: i
+      picpath: zhijianglu.png
+      pinyin: zhī jiāng lù
+      money: 1
+      leaf: 1
+      wheel: 3
+- id: 35
+  name: 满觉陇路
+  bgColor: 255, 160, 100
+  dts:
+      zone: i
+      picpath: manjuelonglu.png
+      pinyin: mǎn jué lǒng lù
+      money: 2
+      leaf: 2
+      wheel: 1
+- id: 36
+  name: 玉皇山路
+  bgColor: 255, 160, 100
+  dts:
+      zone: i
+      picpath: yuhuangshanlu.png
+      pinyin: yù huáng shān lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 37
+  name: 浙大路
+  bgColor: 100, 150, 197
+  dts:
+      zone: j
+      picpath: zhedalu.png
+      pinyin: zhè dà lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 38
+  name: 求是路
+  bgColor: 100, 150, 197
+  dts:
+      zone: j
+      picpath: qiushilu.png
+      pinyin: qiú shì lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 39
+  name: 玉古路
+  bgColor: 100, 150, 197
+  dts:
+      zone: j
+      picpath: yugulu.png
+      pinyin: yù gǔ lù
+      money: 1
+      leaf: 2
+      wheel: 2
+- id: 40
+  name: 西溪路
+  bgColor: 100, 150, 197
+  dts:
+      zone: j
+      picpath: xixilu.png
+      pinyin: xī xī lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 41
+  name: 江锦路
+  bgColor: 194, 50, 83
+  dts:
+      zone: k
+      picpath: jiangjinlu.png
+      pinyin: jiāng jǐn lù
+      money: 3
+      leaf: 1
+      wheel: 1
+- id: 42
+  name: 解放东路
+  bgColor: 194, 50, 83
+  dts:
+      zone: k
+      picpath: jiefangdonglu.png
+      pinyin: jiě fàng dōng lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 43
+  name: 新业路
+  bgColor: 194, 50, 83
+  dts:
+      zone: k
+      picpath: xinyelu.png
+      pinyin: xīn yè lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 44
+  name: 富春路
+  bgColor: 194, 50, 83
+  dts:
+      zone: k
+      picpath: fuchunlu.png
+      pinyin: fù chūn lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 45
+  name: 灵隐路
+  bgColor: 235, 153, 46
+  dts:
+      zone: l
+      picpath: lingyinlu.png
+      pinyin: líng yǐn lù
+      money: 2
+      leaf: 3
+      wheel: 2
+- id: 46
+  name: 天竺路
+  bgColor: 235, 153, 46
+  dts:
+      zone: l
+      picpath: tianzhulu.png
+      pinyin: tiān zhú lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 47
+  name: 龙井路
+  bgColor: 235, 153, 46
+  dts:
+      zone: l
+      picpath: longjinglu.png
+      pinyin: lóng jǐng lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 48
+  name: 双峰路
+  bgColor: 235, 153, 46
+  dts:
+      zone: l
+      picpath: shuangfenglu.png
+      pinyin: shuāng fēng lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 49
+  name: 黄龙路
+  bgColor: 160, 168, 60
+  dts:
+      zone: m
+      picpath: huanglonglu.png
+      pinyin: huáng lóng lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 50
+  name: 保俶路
+  bgColor: 160, 168, 60
+  dts:
+      zone: m
+      picpath: baochulu.png
+      pinyin: bǎo chù lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 51
+  name: 曙光路
+  bgColor: 160, 168, 60
+  dts:
+      zone: m
+      picpath: shuguanglu.png
+      pinyin: shǔ guāng lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 52
+  name: 杭大路
+  bgColor: 160, 168, 60
+  dts:
+      zone: m
+      picpath: hangdalu.png
+      pinyin: háng dà lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 53
+  name: 天目山路
+  bgColor: 38, 198, 38
+  dts:
+      zone: n
+      picpath: tianmushanlu.png
+      pinyin: tiān mù shān lù
+      money: 1
+      leaf: 3
+      wheel: 2
+- id: 54
+  name: 良渚大道
+  bgColor: 38, 198, 38
+  dts:
+      zone: n
+      picpath: liangzhudadao.png
+      pinyin: liáng zhǔ dà dào
+      money: 1
+      leaf: 3
+      wheel: 1
+- id: 55
+  name: 莫干山路
+  bgColor: 38, 198, 38
+  dts:
+      zone: n
+      picpath: moganshanlu.png
+      pinyin: mò gān shān lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 56
+  name: 古墩路
+  bgColor: 38, 198, 38
+  dts:
+      zone: n
+      picpath: gudunlu.png
+      pinyin: gǔ dūn lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 57
+  name: 文一路
+  bgColor: 200, 50, 200
+  dts:
+      zone: o
+      picpath: wenyilu.png
+      pinyin: wén yī lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 58
+  name: 文二路
+  bgColor: 200, 50, 200
+  dts:
+      zone: o
+      picpath: wenerlu.png
+      pinyin: wén èr lù
+      money: 1
+      leaf: 1
+      wheel: 2
+- id: 59
+  name: 文三路
+  bgColor: 200, 50, 200
+  dts:
+      zone: o
+      picpath: wensanlu.png
+      pinyin: wén sān lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 60
+  name: 学院路
+  bgColor: 200, 50, 200
+  dts:
+      zone: o
+      picpath: xueyuanlu.png
+      pinyin: xué yuàn lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 61
+  name: 闻涛路
+  bgColor: 220, 100, 140
+  dts:
+      zone: p
+      picpath: wentaolu.png
+      pinyin: wén tāo lù
+      money: 1
+      leaf: 2
+      wheel: 1
+- id: 62
+  name: 网商路
+  bgColor: 220, 100, 140
+  dts:
+      zone: p
+      picpath: wangshanglu.png
+      pinyin: wǎng shāng lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 63
+  name: 江南大道
+  bgColor: 220, 100, 140
+  dts:
+      zone: p
+      picpath: jiangnandadao.png
+      pinyin: jiāng nán dà dào
+      money: 2
+      leaf: 1
+      wheel: 2
+- id: 64
+  name: 江晖路
+  bgColor: 220, 100, 140
+  dts:
+      zone: p
+      picpath: jianghuilu.png
+      pinyin: jiāng huī lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 65
+  name: 学士路
+  bgColor: 100, 100, 255
+  dts:
+      zone: q
+      picpath: xueshilu.png
+      pinyin: xué shì lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 66
+  name: 东坡路
+  bgColor: 100, 100, 255
+  dts:
+      zone: q
+      picpath: dongpolu.png
+      pinyin: dōng pō lù
+      money: 2
+      leaf: 1
+      wheel: 1
+- id: 67
+  name: 浣纱路
+  bgColor: 100, 100, 255
+  dts:
+      zone: q
+      picpath: huanshalu.png
+      pinyin: huàn shā lù
+      money: 1
+      leaf: 1
+      wheel: 1
+- id: 68
+  name: 仁和路
+  bgColor: 100, 100, 255
+  dts:
+      zone: q
+      picpath: renhelu.png
+      pinyin: rén hé lù
+      money: 1
+      leaf: 2
+      wheel: 1

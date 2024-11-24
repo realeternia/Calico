@@ -1,0 +1,84 @@
+﻿width: 492
+height: 720
+backColor: $bgcolor
+borderSize: 5
+images:
+  - path: $picpath
+    x: 0
+    y: 147
+    width: 9999
+    height: 573
+repeatImages:
+  - path: dollar.png
+    x: 8
+    y: 160
+    width: 48
+    height: 48
+    repeat: $money
+    gapWidth: 5
+  - path: leaf.png
+    x: 8
+    y: 220
+    width: 48
+    height: 48
+    repeat: $leaf
+    gapWidth: 5
+  - path: wheel.png
+    x: 8
+    y: 280
+    width: 48
+    height: 48
+    repeat: $wheel
+    gapWidth: 5
+lines:
+  - x0: 0
+    y0: 147
+    x1: 9999
+    y1: 147
+    size: 5
+rects:
+  - x: 457
+    y: 685
+    width: 35
+    height: 35
+    color: 255,255,255
+    borderSize: 3
+  - x: 0
+    y: 685
+    width: 50
+    height: 35
+    color: 255,255,255
+    borderSize: 3
+texts:
+  - x: 0
+    y: 2
+    width: 492
+    text: $pinyin
+    font: 黑体
+    bold: true
+    textsize: 26
+    align: center
+  - x: 0
+    y: 37
+    width: 492
+    text: $name
+    font: 黑体
+    bold: true
+    textsize: 70
+    align: center
+  - x: 457
+    y: 685
+    width: 35
+    text: $zone
+    font: 黑体
+    bold: true
+    textsize: 24
+    align: center
+  - x: 0
+    y: 685
+    width: 50
+    text: $id
+    font: 黑体
+    bold: true
+    textsize: 24
+    align: center
